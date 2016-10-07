@@ -1,0 +1,9 @@
+<!DOCTYPE html/>
+<html>
+<head>
+<title>Welcome to Noms' World!</title>
+<h1>NomWorld</h1>
+</head> <body>
+<p> Hi! This is my second website (my first was just blue text hyper-links
+and I want to make another to upgrade and improve my coding abilities!</p>
+
